@@ -2,5 +2,5 @@
 
 ```
 gcloud auth application-default login --project XXXXX
-export GOOGLE_CLOUD_PROJECT=$(gcloud config get-value project)
+export GOOGLE_CLOUD_PROJECT=XXXXX
 ```
